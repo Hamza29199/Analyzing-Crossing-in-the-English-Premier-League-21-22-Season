@@ -66,4 +66,4 @@ they have been blessed with a few brilliant players. The young winger Demarai Gr
 created over 40 chances on his own. Similarly, for Newcastle, the likes of Allan Saint-Maximin (76% pass acc with almost 50 chances created across all comps)
 and left-back Emil Krafth who impressed fans so much with his performances that he was called the "Swedish Cafu". That tells you everything, really.
 
-# Final Visualization
+# Final Visualization -- to be updated soon
